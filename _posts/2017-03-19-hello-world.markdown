@@ -8,5 +8,5 @@ categories: jekyll update
   def hello_world():
     print('Hello World !')
   hello_world()
-  #=> prints 'Hello World !' to STDOUT.
+  #=> 'Hello World !'
 {% endhighlight %}
