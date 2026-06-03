@@ -1,0 +1,7 @@
+---
+layout: music
+title:  "Flagboy Giz - We Outside"
+date:   2025-10-01 17:06:00 +0100
+categories: music
+---
+{% include youtube.html id="7u9vWG7IL0Q" title="Flagboy Giz - We Outside" %}
